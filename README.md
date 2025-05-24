@@ -1,6 +1,6 @@
 # Mini Proyek - Coding untuk Kaka Tingkat
 
-##Identitas  Mahasiswa \n
+##Identitas  Mahasiswa 
 -Nama: Abdus Salam Azzahra
 -NIM: 2410137
 -Kelas: PSTI2A
